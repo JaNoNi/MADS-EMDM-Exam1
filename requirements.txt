@@ -14,7 +14,6 @@ decorator==5.1.1
 distlib==0.3.6
 entrypoints==0.4
 executing==1.0.0
-exercises==1.0
 filelock==3.8.0
 flake8==4.0.1
 fonttools==4.37.3
@@ -58,7 +57,6 @@ pytest==5.4.3
 pytest-cov==3.0.0
 python-dateutil==2.8.2
 pytz==2022.2.1
-pywin32==304
 PyYAML==6.0
 pyzmq==24.0.0
 scikit-learn==1.1.2
